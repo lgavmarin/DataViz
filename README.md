@@ -8,5 +8,7 @@ Some of the Python libraries used to visualize these datasets include: Matplotli
 
 References:
 (1) https://continuingstudies.stanford.edu/courses/professional-and-personal-development/an-introduction-to-creating-data-visualizations-with-python/20191_CS-06
+
 (2) https://github.com/vega/vega-datasets
+
 (3) https://exoplanetarchive.ipac.caltech.edu/
